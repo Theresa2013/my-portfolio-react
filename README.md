@@ -64,7 +64,7 @@ npm i
 ![Demo](./src/assets/images/Contactme.png)
 ![Demo](./src/assets/images/Projects.png)
 
-Deployed URL:
+Deployed URL: https://theresa2013.github.io/my-portfolio-react/
 
 GitHub Repo: https://github.com/Theresa2013/my-portfolio-react.git
 
