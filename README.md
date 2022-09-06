@@ -1,5 +1,19 @@
 # My Portfolio
 
+## Table of Contents
+
+- [Description](#description)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [Questions](#questions)
+
+## Description
+
+This is an an application of my personal portfolio using React. It displays a little bit about me, my projects, and how to contact me. Enjoy!
+
 ## User Story
 
 ```md
@@ -37,3 +51,31 @@ THEN I see a link to a downloadable resume and a list of the developer’s profi
 WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 ```
+
+## Installation
+
+```md
+npm i
+```
+
+## Usage
+
+![Demo](./src/assets/images/Aboutme.png)
+![Demo](./src/assets/images/Contactme.png)
+![Demo](./src/assets/images/Projects.png)
+
+Deployed URL:
+
+GitHub Repo: https://github.com/Theresa2013/my-portfolio-react.git
+
+## Contribution
+
+If you are interested in future development, please reach me via email or Github!
+
+## Questions
+
+If you have any questions, please feel free to reach out!
+
+Github username: Theresa2013
+
+Github Email: tab61295@gmail.com
